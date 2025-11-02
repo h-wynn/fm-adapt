@@ -35,7 +35,7 @@ This project bridges *signal processing* and *reinforcement learning* through in
 
 ## 📁 Repository Structure
 
-'''
+```
 fm-adapt/
 ├── requirements.txt # Dependencies (PyTorch, Matplotlib, etc.)
 ├── src/
@@ -47,7 +47,7 @@ fm-adapt/
 └── README.md # You are here
 
 
-'''
+```
 
 
 ---
