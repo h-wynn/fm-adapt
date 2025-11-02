@@ -1,0 +1,4 @@
+# optional but recommended
+transformers
+torch
+numpy
